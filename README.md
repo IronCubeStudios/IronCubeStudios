@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**IronCubeStudios/IronCubeStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Scripts
+  * [Auto Hot Key Scripts](https://github.com/IronCubeStudios/AutoHotKeyScripts)
+  * [Batch Scripts](https://github.com/IronCubeStudios/BatchScripts)
+  * [Python Scripts](https://github.com/IronCubeStudios/PythonScripts)
+  * [Bash Scripts](https://github.com/IronCubeStudios/BashScripts)
+* Configs
+  * [.dotfiles](https://github.com/IronCubeStudios/.dotfiles)
+* Projects
+  * [T3LLY](https://github.com/IronCubeStudios/T3LLY-)
+* [Templates](https://github.com/IronCubeStudios/Templates)
+  
