@@ -7,7 +7,7 @@
   * [Bash Scripts](https://github.com/IronCubeStudios/BashScripts)
 * Configs
   * [.dotfiles](https://github.com/IronCubeStudios/.dotfiles) --OLD
-  * [.vimrc])(https://github.com/IronCubeStudios/Vim_Dots)
+  * [.vimrc](https://github.com/IronCubeStudios/Vim_Dots)
   * [.doom.d](https://github.com/IronCubeStudios/.doom.d)
 * Projects
   * [T3LLY](https://github.com/IronCubeStudios/T3LLY-)
