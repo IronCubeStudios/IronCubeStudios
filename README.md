@@ -2,11 +2,24 @@
 
 I like source codes
 
+# ✨Favorites ✨
+## Organizations
+- @microsoft
+- @videlan
+- @google
+
+# Apps / Small Projects
+- @msys2
+- @git-for-windows
+- @netbsd
+- @winsiderss 
+
 * Scripts
   * [Auto Hot Key Scripts](https://github.com/IronCubeStudios/AutoHotKeyScripts)
   * [Batch Scripts](https://github.com/IronCubeStudios/BatchScripts)
   * [Python Scripts](https://github.com/IronCubeStudios/PythonScripts)
   * [Bash Scripts](https://github.com/IronCubeStudios/BashScripts)
+ 
 
   
 ## Socials
