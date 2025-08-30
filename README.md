@@ -8,7 +8,7 @@ I like source codes
 - @videlan
 - @google
 
-# Apps / Small Projects
+## Apps / Small Projects
 - @msys2
 - @git-for-windows
 - @netbsd
